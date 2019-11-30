@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  当前人数:${online_number}
   </body>
 </html>
